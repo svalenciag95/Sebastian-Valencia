@@ -72,4 +72,4 @@ I'm a masters student in Automation & Control. I'm developing Deep Learning mode
 
 ***********************************
 
-⭐️ From [DylanMontoya](https://github.com/DylanMontoya)
+⭐️ From [Sebastian Valencia](https://github.com/svalenciag95)
