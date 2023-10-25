@@ -3,21 +3,19 @@
 ***********************************
 
 ## About me
-Telecomunication engineer with more than a year of experience in the computational analysis sector, I have knowledge in Natural Language Processing & Machine Learning. In recent months I have dedicated myself to the creation of NER models and personal projects.
-I'm a masters student in Automation & Control. I'm developing Deep Learning models for biomedical text with NER & negation detetion.
+Telecommunications Engineer with more than a year of experience in the field of computational analysis, I have knowledge in Data Analytics & Machine Learning. In the last months I have dedicated myself to the creation of data analysis for personal and academic projects.
+I am a master student in Automation and Control. I am developing Machine Learning models to predict the behavior of photonic structures for the use of optical communications.
 
 
 ## Skills
 
 - Programming languages: Python (Advanced).
 - Database engine: MySQL, PostgreSQL, MongoDB.
-- Cloud computing: Azure.
 - Others: Power BI, Django, Git.
 
 <br />
 
 - Data preparation (ETL, Airflow, APIs).
-- NLP (NLTK, spaCy, Transformers).
 - Machine Learning y Deep Learning.
 - Mathematical modeling and optimization.
 
@@ -33,7 +31,6 @@ I'm a masters student in Automation & Control. I'm developing Deep Learning mode
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"></code>
 
 
@@ -56,8 +53,8 @@ I'm a masters student in Automation & Control. I'm developing Deep Learning mode
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/dylan-montoya/">  
-  <img align="left" alt="Dylan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://[www.linkedin.com/in/sebastian-valencia-garzon/])">  
+  <img align="left" alt="Sebastian's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/dylan_montoya22">
