@@ -57,12 +57,8 @@ I am a master student in Automation and Control. I am developing Machine Learnin
   <img align="left" alt="Sebastian's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/dylan_montoya22">
-  <img align="left" alt="Dylan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://www.instagram.com/damontoya22/">
-  <img align="left" alt="Dylan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/svalenciag95/">
+  <img align="left" alt="Sebastian's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
